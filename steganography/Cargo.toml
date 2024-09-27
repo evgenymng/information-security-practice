@@ -1,0 +1,8 @@
+[package]
+name = "steganography"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+bit-vec = "0.8.0"
+clap = { version = "4.5.18", features = ["derive"] }
